@@ -41,8 +41,9 @@ Sou educador físico e programador iniciante, apaixonado por **tecnologia, desen
 ## 📫 Contato
 
 - GitHub: [@Ademir892](https://github.com/Ademir892)  
-- LinkedIn: [Seu LinkedIn](#)  
-- Instagram: [Seu Instagram](#)  
+- LinkedIn: [AdemirTraesel](www.linkedin.com/in/
+ademir-marmitt-traesel-63bb20221)  
+- Instagram: [@ademir.traesel](https://www.instagram.com/ademir_dev_mentorphysical/)  
 
 ---
 
